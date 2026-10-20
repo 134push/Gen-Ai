@@ -1,0 +1,5 @@
+mouse : 400.0
+keyboard : 640.0
+monitor : 5600.0
+pendrive : 320.0
+camera : 4000.0
