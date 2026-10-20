@@ -45,6 +45,8 @@ Practical hands-on programs and academic assignments:
 - **Assignment 2:** Data structures, lists, and operations.
 - **Assignment 3:** Conditionals, iterations, and logic building.
 - **Assignment 4:** File handling operations, sales analytics, and discount report generators.
+- **Assignment 6:** Exception & Error handling (`try`, `except`, `finally`, custom exceptions).
+- **Modules Assignment:** Python modules (`math_utils`, `string_utils`) and packages (`shop_packages` with `billing` & `discount`).
 
 ---
 
