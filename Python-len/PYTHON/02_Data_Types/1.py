@@ -1,0 +1,38 @@
+print("==========================")
+print("    STUDENT PROFILE    ")
+print("==========================")
+print("\n")
+
+
+name = input("Enter Name : ")
+roll_number = int(input("Enter Roll Number : "))
+phone_number = int(input("Enter Phone Number : "))
+age = int(input("Enter Age : "))
+branch = input("Enter Branch : ")
+cgpa = float(input("Enter CGPA : "))
+fees_paid = int(input("Enter Fees Paid (True/False) :True"))
+
+
+
+print("==========================")
+print("NAME : ",name)
+print("student_id : ",roll_number)
+print("phone_number : ",phone_number)
+print("AGE : ",age)
+print("BRANCH : ",branch)
+print("CGPA : ",cgpa)
+print("FEES PAID : ",fees_paid)
+print("age after 5 years : ",age + 5)
+print("CGPA Percentage : ",cgpa*10,"%")
+print("Is Adult ? : ",age >= 18)
+print("Data Types : ",type(name),type(age),type(branch),type(cgpa),type(fees_paid))
+
+print("==========================")
+print(type(name))
+print(type(roll_number))
+print(type(phone_number))
+print(type(age))
+print(type(branch))
+print(type(cgpa))
+print(type(fees_paid))
+print("==========================")
