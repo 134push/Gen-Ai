@@ -2,3 +2,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 .ipynb_checkpoints/
+
+# Large media & binary data files (>100MB limit on GitHub)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.npy
+*.npz
+video_matrix_lab/data/
+hiran_4k_60fps/frames/
+
