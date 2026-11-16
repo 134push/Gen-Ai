@@ -13,3 +13,6 @@ __pycache__/
 video_matrix_lab/data/
 hiran_4k_60fps/frames/
 
+
+.env
+insta_reels_studio/.env
